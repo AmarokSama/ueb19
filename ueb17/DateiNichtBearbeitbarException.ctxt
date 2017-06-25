@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DateiNichtBearbeitbarException
+comment0.text=\r\n\ \ \ \ ---->\ DateiNichtBearbeitbarException\ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ -->\ Realisiert\ eine\ einfache\ DateiNichtBearbeitbarException\r\n\r\n\ @version\t1.0\ Beta\ 07.04.2017\r\n\ @author\tWolfgang\ Pauly\r\n\r\n
+comment1.params=
+comment1.target=DateiNichtBearbeitbarException()
+comment2.params=meldung
+comment2.target=DateiNichtBearbeitbarException(java.lang.String)
+comment3.params=datei
+comment3.target=void\ istBearbeitbar(java.io.File)
+comment3.text=\r\n\ \ \ \ ueberprueft,\ ob\ das\ uebergebene\ File\ \r\n\ \ \ \ bearbeitbar\ (\ lesbar\ und\ beschreibbar\ )\ ist\r\n\ \ \ \ \r\n\ \ \ \ wirft\ falls\ nicht\ \ eine\ DateiNichtBearbeitbarException\ \r\n\ \ \ \ \r\n\ \ \ \ @param\ datei\ zu\ ueberpruefendes\ File\r\n\r\n
+comment4.params=datei
+comment4.target=void\ istLesbar(java.io.File)
+comment4.text=\r\n\ \ \ \ ueberprueft,\ ob\ das\ uebergebene\ File\ \r\n\ \ \ \ lesbar\ \ ist\r\n\ \ \ \ \r\n\ \ \ \ wirft\ falls\ nicht\ \ eine\ DateiNichtBearbeitbarException\ \r\n\ \ \ \ \r\n\ \ \ \ @param\ datei\ zu\ ueberpruefendes\ File\r\n\r\n
+comment5.params=datei
+comment5.target=void\ istBeschreibbar(java.io.File)
+comment5.text=\r\n\ \ \ \ ueberprueft,\ ob\ das\ uebergebene\ File\ \r\n\ \ \ \ beschreibbar\ \ ist\r\n\ \ \ \ \r\n\ \ \ \ wirft\ falls\ nicht\ \ eine\ DateiNichtBearbeitbarException\ \r\n\ \ \ \ \r\n\ \ \ \ @param\ datei\ zu\ ueberpruefendes\ File\r\n\r\n
+numComments=6

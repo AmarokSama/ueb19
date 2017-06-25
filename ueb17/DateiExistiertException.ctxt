@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DateiExistiertException
+comment0.text=\r\n\ \ \ \ ---->\ DateiExistiertException\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ -->\ Realisiert\ eine\ einfache\ DateiExistiertException\r\n\r\n\ @version\t1.0\ Beta\ 07.04.2017\r\n\ @author\tWolfgang\ Pauly\r\n\r\n
+comment1.params=
+comment1.target=DateiExistiertException()
+comment2.params=meldung
+comment2.target=DateiExistiertException(java.lang.String)
+comment3.params=datei
+comment3.target=void\ existiertDatei(java.io.File)
+comment3.text=\r\n\ \ \ \ ueberprueft,\ ob\ das\ uebergebene\ File\ \r\n\ \ \ \ existiert\r\n\ \ \ \ \r\n\ \ \ \ wirft\ dann\ eine\ DateiExistiertNichtException\ \r\n\ \ \ \ \r\n\ \ \ \ @param\ datei\ zu\ ueberpruefendes\ File\r\n\r\n
+numComments=4

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MyInputFunctions
+comment1.params=
+comment1.target=MyInputFunctions()
+comment1.text=\r\n\ Konstruktor,\ der\ die\ Erzeugung\ eines\ Objektes\ dieser\ Klasse\ verhindert,\ \r\n\ da\ sinnlos\ \!\!\r\n
+comment2.params=in\ eingabeAufforderung
+comment2.target=int\ readlnInt(java.util.Scanner,\ java.lang.String)
+comment2.text=\r\n\ gibt\ eine\ Eingabeaufforderungs-Text\ aus\ und\r\n\ liest\ aus\ einem\ Eingabestrom\ genau\ die\ erste\ Integer-Zahl\r\n\ und\ ueberliest\ bis\ zum\ Zeilenende\ alle\ weiteren\ Zeichen\r\n\r\n\ \ @param\ \ in\ der\ zu\ lesende\ Eingabestrom\r\n\ \ @param\ \ eingabeAufforderung\ der\ Eingabe-Aufforderungs-Text\r\n\ \ @return\ die\ eingegebene\ Integer-Zahl\r\n
+comment3.params=in\ eingabeAufforderung
+comment3.target=long\ readlnLong(java.util.Scanner,\ java.lang.String)
+comment3.text=\r\n\ gibt\ eine\ Eingabeaufforderungs-Text\ aus\ und\r\n\ liest\ aus\ einem\ Eingabestrom\ genau\ die\ erste\ Long-Integer-Zahl\r\n\ und\ ueberliest\ bis\ zum\ Zeilenende\ alle\ weiteren\ Zeichen\r\n\r\n\ \ @param\ \ in\ der\ zu\ lesende\ Eingabestrom\r\n\ \ @param\ \ eingabeAufforderung\ der\ Eingabe-Aufforderungs-Text\r\n\ \ @return\ die\ eingegebene\ Long-Integer-Zahl\r\n
+comment4.params=in\ eingabeAufforderung
+comment4.target=float\ readlnFloat(java.util.Scanner,\ java.lang.String)
+comment4.text=\r\n\ gibt\ eine\ Eingabeaufforderungs-Text\ aus\ und\r\n\ liest\ aus\ einem\ Eingabestrom\ genau\ die\ erste\ Float-Zahl\r\n\ und\ ueberliest\ bis\ zum\ Zeilenende\ alle\ weiteren\ Zeichen\r\n\r\n\ \ @param\ \ in\ der\ zu\ lesende\ Eingabestrom\r\n\ \ @param\ \ eingabeAufforderung\ der\ Eingabe-Aufforderungs-Text\r\n\ \ @return\ die\ eingegebene\ Float-Zahl\r\n
+comment5.params=in\ eingabeAufforderung
+comment5.target=double\ readlnDouble(java.util.Scanner,\ java.lang.String)
+comment5.text=\r\n\ gibt\ eine\ Eingabeaufforderungs-Text\ aus\ und\r\n\ liest\ aus\ einem\ Eingabestrom\ genau\ die\ erste\ Double-Zahl\r\n\ und\ ueberliest\ bis\ zum\ Zeilenende\ alle\ weiteren\ Zeichen\r\n\r\n\ \ @param\ \ in\ der\ zu\ lesende\ Eingabestrom\r\n\ \ @param\ \ eingabeAufforderung\ der\ Eingabe-Aufforderungs-Text\r\n\ \ @return\ die\ eingegebene\ Double-Zahl\r\n
+comment6.params=in\ eingabeAufforderung
+comment6.target=java.lang.String\ readlnString(java.util.Scanner,\ java.lang.String)
+comment6.text=\r\n\ gibt\ eine\ Eingabeaufforderungs-Text\ aus\ und\r\n\ liest\ aus\ einem\ Eingabestrom\ die\ ganze\ Zeile\ als\ Zeichenkette\ (\ String\ )\r\n\ \ bis\ zum\ Zeilenende\r\n\r\n\ \ @param\ \ in\ der\ zu\ lesende\ Eingabestrom\r\n\ \ @param\ \ eingabeAufforderung\ der\ Eingabe-Aufforderungs-Text\r\n\ \ @return\ den\ eingegebenen\ String\ \=\=\ ganze\ Zeile\r\n
+comment7.params=in
+comment7.target=java.lang.String\ readlnString(java.util.Scanner)
+comment7.text=\r\n\ liest\ aus\ einem\ Eingabestrom\ eine\ ganze\ Zeile\ als\ Zeichenkette\ (\ String\ )\r\n\ bis\ zum\ Zeilenende\ ein\r\n\r\n\ \ @param\ \ in\ der\ zu\ lesende\ Eingabestrom\r\n\ \ @return\ den\ eingegebenen\ String\ \=\=\ ganze\ Zeile\ oder\ null,\ wenn\ keine\ Zeile\ mehr\ lesbar\r\n
+comment8.params=in\ eingabeAufforderung
+comment8.target=char\ readlnChar(java.util.Scanner,\ java.lang.String)
+comment8.text=\r\n\ gibt\ eine\ Eingabeaufforderungs-Text\ aus\ und\r\n\ liest\ aus\ einem\ Eingabestrom\ genau\ das\ erste\ Zeichen\ (\ Char\ )\r\n\ und\ ueberliest\ bis\ zum\ Zeilenende\ alle\ weiteren\ Zeichen\r\n\r\n\ \ @param\ \ in\ der\ zu\ lesende\ Eingabestrom\r\n\ \ @param\ \ eingabeAufforderung\ der\ Eingabe-Aufforderungs-Text\r\n\ \ @return\ das\ eingegebene\ Zeichen\ (\ char\ )\r\n
+numComments=9
